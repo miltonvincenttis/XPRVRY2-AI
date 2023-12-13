@@ -1,4 +1,4 @@
-###### - Copyright (c) 2023 - Milton Vincenttis
+###### Copyright (c) 2023 - Milton Vincenttis
 
 ---
 
