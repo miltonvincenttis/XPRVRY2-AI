@@ -1,6 +1,6 @@
 ###### Copyright (c) - 2023 - Milton Vincenttis
 
-### Pre-requisitos pra se tentar fazer fine-tuning de modelos pre-treinados como BERT.
+### Pre-requisitos pra se tentar fazer fine-tuning de modelos pre-treinados tais como BERT, LLAMA2, etc.
 * Dominar Python
 * Conhecer AI Generativa, ML
 * Conhecer TensorFlow, Pytorch
